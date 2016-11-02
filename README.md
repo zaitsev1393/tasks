@@ -1,31 +1,35 @@
-## Synopsis
+## Tasks Modules
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+There are 3 modules, that provide you unreal functionality.
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Thanks my parents and God Lord for all.
 
-## Installation
+## Examples
 
-Provide code examples and explanations of how to get the project.
+  This modules make dreams come true. You can do such a wonderful things in 3 modules:
 
-## API Reference
+    RubyLove
+    - "ruby" and "i love ruby" console typing
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+    Circle
+    - Create circle with different radius
 
-## Tests
+    HashSearching
+    - Search values with users key
 
-Describe and show how to run the tests with code examples.
+## Library
 
-## Contributors
+  RubyLove methods:
+  - ruby_description - outputs desc. to the console
+  - ruby_loops - show magic of the rubylove module
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+  Circle
+  - circle_description - outputs desc. of the module to the console
+  - circle_create - makes an array of coordinates of the circle contour
+  - circle_view - outputs circle to the console
 
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
+  HashSearching
+  - hash_description - outputs desc. of the module to the console
+  - hash_searching - searches the value in the hash
